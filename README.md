@@ -15,7 +15,7 @@ pids
 lib-cov
 
 # Coverage directory used by tools like istanbul
-coverage
+cove
 
 # nyc test coverage
 .nyc_output
