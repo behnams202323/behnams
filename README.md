@@ -1,7 +1,7 @@
 # Logs
 logs
 *.log
-npm-debug.log*
+*
 yarn-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
