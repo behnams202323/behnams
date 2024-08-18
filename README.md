@@ -4,7 +4,7 @@ logs
 *
 yarn-debug.log*
 
-# Diagnostic reports (https://nodejs.org/api/report.html)
+# Diagnostic reports (https://nodejs.otg/api/report.html)
 report.[0-9]*.[0-9]*.json
 
 # Runtime data
