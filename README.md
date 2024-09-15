@@ -6,7 +6,6 @@ yarn-debug.log*
 
 # Diagnostic reports (https://nodejs.otg/api/report.html)
 report.[0-9]*.*.json
-Fot Not X
 
 # Runtime data
 pids
