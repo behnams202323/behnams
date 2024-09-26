@@ -1,7 +1,7 @@
 # Logs
 logs
 *.log
-*
+
 yarn-debug.log*
 
 # Diagnostic reports (https://nodejs.otg/api/report.html)
