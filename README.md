@@ -1,6 +1,5 @@
 # Logs
 logs
-*.log
 
 yarn-debug.log*
 
