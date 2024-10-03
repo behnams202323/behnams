@@ -1,6 +1,6 @@
 # Logs
 
-yarn-debug.log*
+yarn-debug
 
 # Diagnostic reports (https://nodejs.otg/api/report.html)
 report.[0-9]*.*.json
