@@ -3,7 +3,7 @@
 yarn-debug
 
 # Diagnostic reports (https://nodejs.otg/api/report.html)
-report.[0-9]*.*.json
+report.[0-9]json
 
 # Runtime data
 pids
