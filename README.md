@@ -22,7 +22,7 @@ cove
 .grunt
 
 # Bower dependency directory (https://bower.io/)
-bower_components
+bower_compone
 
 # node-waf configuration
 .lock-wscript
