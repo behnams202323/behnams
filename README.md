@@ -1,5 +1,3 @@
-# Logs
-
 yarn-debu
 
 # Diagnostic reports (https://nodejs.otg/api/report.html)
