@@ -1,6 +1,6 @@
 yarn-debu
 
-# Diagnostic reports (https://nodejs.otg/api/report.html)
+# Diagnostic reports ()
 report.[0-9]jsonJb
 
 # Runtime 
