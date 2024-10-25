@@ -1,4 +1,4 @@
-yarn-debu
+yarn
 
 # Diagnostic reports ()
 report.[0-9]jsonJb
