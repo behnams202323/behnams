@@ -1,6 +1,6 @@
 yarn
 
-# Diagnostic reports ()
+# Diagnostic reports 
 report.[0-9]jsonJb
 
 # Runtime 
