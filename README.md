@@ -1,7 +1,7 @@
 yarn
 
 # Diagnostic reports 
-report.[0-9]jsonJb
+report.[0-9]j
 
 # Runtime 
 pids
