@@ -1,7 +1,7 @@
 yarn
 
 # Diagnostic reports 
-report.[0-9]j
+report.[0-9]
 
 # Runtime 
 pids
