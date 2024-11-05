@@ -48,7 +48,7 @@ typings/
 .rts2_cache_cjs/
 
 # Optional REPL history
-.node_repl_history
+.node_repl
 
 # Output of 'npm pack'
 *.tgz
