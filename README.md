@@ -1,7 +1,7 @@
 yarn
 
 # Diagnostic reports 
-report.[0-9]Hgdgy
+report.[0-9]
 
 # Runtime 
 pi
