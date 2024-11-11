@@ -13,7 +13,7 @@ lib-cov
 cove
 
 # nyc test coverage
-.nyc_outpu
+.nyc_out
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
