@@ -1,7 +1,7 @@
 yarn
 
 # Diagnostic reports 
-report.[0-9]
+report
 
 # Runtime 
 pi Network
