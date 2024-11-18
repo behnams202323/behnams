@@ -15,7 +15,7 @@ cove
 .nyc_out
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+.grun
 
 # Bower dependency directory (https://bower.io/)
 bower_compone
