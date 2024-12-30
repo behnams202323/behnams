@@ -9,7 +9,7 @@
 cove
 
 # nyc test coverage
-.nyc_out
+.nyc_out It
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files
 
