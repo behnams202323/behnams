@@ -6,7 +6,7 @@
 
 
 # Coverage directory used by tools like istanbul
-cove
+
 
 # nyc test coverage
 .nyc_out It
