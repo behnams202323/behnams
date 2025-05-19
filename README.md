@@ -13,7 +13,7 @@
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files
 
-# Diagnostic reports 
+# Diagnostic repor
 
 
 # Runtime 
